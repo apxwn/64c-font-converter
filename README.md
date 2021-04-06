@@ -3,6 +3,8 @@ Converts binary 64c font files to per-char PNG images with preview image.
 
 64c fonts can be found, for example, at http://home-2002.code-cop.org/c64/
 
+---
+
 Konvertiert c64-Zeichensätze (*.64c-Format) pro Zeichen zu PNG und erstellt Preview.
 
 Aufruf:
