@@ -18,3 +18,5 @@ ergibt:
 PNG-Dateien pro Zeichen aus default.64c, Previewbild mit einer Breite aus 32 Zeichen, 2-fach vergrößert.
 
 Achtung! Skalierungsfaktor geht nur als drittes Argument, also nicht ohne die Angabe der Breite des Previewbilds.
+
+Die ersten beiden Byte von 64c-Dateien sind keine Inhalte. Falls dies anders sein sollte, kann man den Offset (dz. 2) in Zeile 25 anpassen.
