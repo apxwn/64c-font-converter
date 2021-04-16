@@ -126,3 +126,7 @@ dmypy.json
 
 # mein Zeug
 *.png
+result/
+/*.64c
+*.log
+*.bak
